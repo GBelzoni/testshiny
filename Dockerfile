@@ -1,2 +1,2 @@
-FROM rocker/rstudio
+FROM rocker/shiny
 
